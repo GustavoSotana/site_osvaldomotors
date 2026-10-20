@@ -4,3 +4,6 @@ Modelo Entidade-Relacionamento (MER) Entidades e atributos Cliente: armazena o n
 
 Diagrama DER
 
+## Diagrama DER
+
+![Diagrama DER](./der.png)
